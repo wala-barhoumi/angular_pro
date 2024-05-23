@@ -329,7 +329,7 @@ section{
 }
 
 .contact{
-    background-image: url(../../assets/images/img-form.jpg);
+    background-image: url(../../assets/images/tbl1.jpg);
     background-size: cover;
     box-shadow: 2px 2px 12px rgba(0,0,0, 0.8);
     width: 100%;
@@ -432,7 +432,7 @@ header.sticky li a:hover{
 }
 
 @media (max-width: 991px) {
-header, 
+header,
 header.sticky{
     padding: 10px 20px;
 }
@@ -538,7 +538,7 @@ text-align: center;
         justify-content: center;
         align-items: center;
         margin-bottom: 30px;
-    
+
     }
 
     .row{
@@ -560,7 +560,7 @@ text-align: center;
         text-transform: capitalize;
     }
 
-    .temoignage h2 
+    .temoignage h2
     {
         font-size: 1.1em;
     }
